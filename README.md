@@ -44,6 +44,11 @@
 
 ---
 
+🎛️ Operating System
+<div align="center" style="margin-top:10px;"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> </div>
+
+---
+
 ## 🧪 Projets Perso
 
 - 🛡️ **Cybersecurity Labs** : Pentest, Ransomware, Spoofing, IAM, WiFi attacks
