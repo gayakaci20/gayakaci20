@@ -1,8 +1,7 @@
 # 👋 Salut, moi c'est Gaya KACI
 
 🎓 Étudiant en **Bachelor Cybersécurité** à [ESGI Paris](https://www.esgi.fr)  
-🔐 Passionné par la **Cybersécurité**, l’**Automatisation**, le **DevOps** et les **Systèmes Linux**  
-🚀 À la recherche d'une **alternance en Cybersécurité** (3 semaines en entreprise / 1 semaine en cours)
+🔐 Passionné par la **Cybersécurité**
 
 ---
 
