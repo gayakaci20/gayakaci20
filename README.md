@@ -28,15 +28,15 @@
 
 <div align="left" style="margin-top:10px;">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
@@ -45,11 +45,11 @@
 🎛️ Operating System
 <div align="left" style="margin-top:10px;">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </div>
 
@@ -57,7 +57,17 @@
 
 ## 📜 Certifications
 
-<div align="left"> <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Security%20Operations-4285F4?style=for-the-badge&logo=google&logoColor=white" /> </div>
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco%20Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cisco%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Google%20Security%20Operations-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
 
 ---
 
