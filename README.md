@@ -74,7 +74,7 @@
 ## 🌍 Me contacter
 
 📫 gaya.kaci2002@hotmail.fr  
-📍 Houilles, Île-de-France  
+📍 Paris,France  
 🔗 [LinkedIn](https://www.linkedin.com/in/gayakaci/)  
 🐙 [GitHub](https://github.com/gayakaci20)  
 🎖️ [Credly](https://www.credly.com/users/gaya-kaci2002)
