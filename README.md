@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gaya
 
-🎓 **Cybersecurity Bachelor Student** at [ESGI Paris](https://www.esgi.fr)  
+🎓 **Cybersecurity Student** at [ESGI Paris](https://www.esgi.fr)  
 ---
 
 ## 🧠 Skills & Technologies
